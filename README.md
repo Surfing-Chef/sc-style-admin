@@ -4,7 +4,7 @@
 __A simple WordPress plugin allowing users to edit the styles and layout of the admin pages__
 
 ### Installation ###
-Download a zip file containing the source code and documentation from [GitHub](https://github.com/Surfing-Chef/sc-style-admin) or clone the package into your WordPress plugins' folder using the git command line interface:
+Download a zip file containing the source code and documentation from [GitHub](https://github.com/Surfing-Chef/sc-style-admin) or clone the package into your WordPress plugins' root folder using the git command line interface:
 
 ```bash
 git clone https://github.com/Surfing-Chef/sc-style-admin.git  
