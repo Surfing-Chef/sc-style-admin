@@ -9,6 +9,7 @@ Download a zip file containing the source code and documentation from [GitHub](h
 ```bash
 git clone https://github.com/Surfing-Chef/sc-style-admin.git  
 ```  
-### Installation ###
-Activate plugin to author styles within *sc-style-admin.css*. The file is located in *wp-content > plugins > sc-style-admin*.
-__IMPORTANT:__ Custom styles will be saved if the plugin is uninstalled, but will be deleted if the plugin is deleted.  Be sure to back up the *sc-style-admin.css* file if changing themes or migrating plugin installations.
+### Activation ###
+Activate plugin to author styles within *sc-style-admin.css*. The file is located in *wp-content > plugins > sc-style-admin*.  
+
+__Important:__ Custom styles will be saved if the plugin is uninstalled, but will be deleted if the plugin is deleted.  Be sure to back up the *sc-style-admin.css* file if changing themes or migrating plugin installations.
