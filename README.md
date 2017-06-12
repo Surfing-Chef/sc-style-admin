@@ -12,4 +12,4 @@ git clone https://github.com/Surfing-Chef/sc-style-admin.git
 ### Activation ###
 Activate plugin to author styles within *sc-style-admin.css*. The file is located in *wp-content > plugins > sc-style-admin*.  
 
-__Important:__ Custom styles will be saved if the plugin is uninstalled, but will be deleted if the plugin is deleted.  Be sure to back up the *sc-style-admin.css* file if changing themes or migrating plugin installations.
+__Important: Custom styles will be deleted if the plugin is uninstalled/deleted.__  The stylesheet and its content are only used by WordPress when the plugin is activated. Although still in the plugin folder, WordPress will ignore custom styles if the plugin is not activated. Be sure to back up the *sc-style-admin.css* file if changing themes or migrating WordPress, plugins or themes.
