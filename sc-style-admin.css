@@ -7,3 +7,33 @@ Version: 2.5
 Text Domain: bourbon-wp
 Tags: Responsive, Bourbon, Bitters, Neat, Sass, parallax
 */
+
+/* Plugins */
+.sc-plugin.sc_dark_weather {
+  width: 250px;
+}
+
+.sc-plugin-form-row {
+  display: block;
+  position: relative;
+  height: 4.5em;
+}
+
+.sc-plugin-form-row input {
+  position: absolute;
+  right: 0;
+  top: -5px;
+}
+
+.sc_dark_weather .sc-plugin-form-label {
+
+}
+
+.sc_dark_weather .description  {
+  display: block;
+  line-height: 2.5em;
+  font-size: .85em;
+  color: gray;
+  padding-left: 9em;
+  text-transform: lowercase;
+}
