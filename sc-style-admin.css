@@ -1,11 +1,13 @@
-/*
-Theme URI: https://github.com/Surfing-Chef/Bourbon-WP
-Author: Surfing-Chef
-Author URI: https://github.com/Surfing-Chef
-Description: This stylesheet contains adminstration panel styles and layout.
-Version: 2.5
-Text Domain: bourbon-wp
-Tags: Responsive, Bourbon, Bitters, Neat, Sass, parallax
+/**
+ * Author: Surfing-Chef
+ * Author URI: https://github.com/Surfing-Chef
+ * Description: This stylesheet contains adminstration panel styles and layout.
+ *
+ * IMPORTANT! Custom styles will be deleted if the plugin is uninstalled/deleted.
+ * The stylesheet and its content are only used by WordPress when the plugin is activated.
+ * Although still in the plugin folder, WordPress will ignore custom styles if the plugin is not activated.
+ * Be sure to back up the sc-style-admin.css file if changing themes or migrating WordPress, plugins or themes.
+
 */
 
 /* Plugins */
